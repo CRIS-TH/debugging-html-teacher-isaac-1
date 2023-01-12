@@ -5,4 +5,4 @@ Follow the [MDN Debugging HTML tutorial](https://developer.mozilla.org/en-US/doc
 use developer tools for debugging.
 
 ## Instructions
-Edit `debug-example.html` to fix the errors. Commit your code with a concise description of all the changes. Push the code to this repository's `master` branch.
+Edit `debug-example.html` to fix the errors. Commit your code with a concise description of all the changes. Push the code to this repository's `main` branch.
